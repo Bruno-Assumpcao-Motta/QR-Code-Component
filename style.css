@@ -28,6 +28,7 @@ img {
 h1 {
     font-family: 'Outfit', sans-serif;
     color:hsl(218, 44%, 22%);
+    padding-top: 20px;
     justify-content: center;
     text-align: center;
     margin: auto;
