@@ -1,2 +1,2 @@
 # QR-Code-Component
- Primeiro desaio do Frontend Mentor
+ Primeiro desafio do Frontend Mentor
